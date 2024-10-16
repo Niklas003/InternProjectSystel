@@ -1,5 +1,5 @@
-# InternProjectSystel
-Projektaufgabe für Schülerpraktikant*innen bei der Systel
+# InternProjectSystel 🚄
+Web Projektaufgabe für Schülerpraktikant*innen bei der DB Systel
 
 ## Projektbeschreibung
 Ziel des Projektes ist es eine digitale Bahnhofstafel zu erstellen mit welcher über eine Weboberfläche interagiert werden kann.
