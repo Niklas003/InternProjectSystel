@@ -10,6 +10,7 @@ Für die Bahnhofstafel sollen Echtzeitdaten verwendet werden. Des Weiteren soll 
 - Anzeige von Abfahrtsgleis und geplanter Abfahrtszeit
 - Anzeige von realer Abfahrtszeit und die Kenntlichmachung von Verspätungen
 - Sollte ein Zug ausfallen/andere Bemerkungen haben so soll das deutlich dargestellt werden.
+- Die Anwendung sollte Responsive sein d.h. wenn ich die Anwendung auf schmaleren Bildschirmen öffne sollte ich sie immmer noch gut benutzen können.
 
 ### Teil 2
 - Bei der Auswahl eines Zuges (draufklicken) öffnet sich ein Modal in welchem alle Halte des Zuges mit den jeweiligen Ankunfts- und Abfahrtszeiten gezeigt werden
