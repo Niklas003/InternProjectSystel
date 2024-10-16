@@ -45,8 +45,16 @@ In diesem Projekt ist es wichtiger dass du eine gute Anwendung/Code schreibst un
 
 [Primefaces](https://www.primefaces.org/) bietet eine anpassbare UI Library für alle gängigen Frontend Frameworks an (optional)
 
+[Angular Material](https://material.angular.io/) - solltest du dich entscheiden mit Angualr zu arbeiten bietet Angular Material eine gute UI Library
+
 [DB UI](https://db-ui.github.io/) - das OpenSource UI System der DB (optional)
 
 [Leaflet](https://leafletjs.com/) - OpenSource JS library für interaktive Karten (wird ab Teil 5 interessant)
 
 ## Design
+
+[Farben](https://marketingportal.extranet.deutschebahn.com/marketingportal/Marke-und-Design/Basiselemente/Farbe#) - hier findest du die Farben welche bei der DB häufig eingesetzt werden.
+
+[Marketingportal](https://marketingportal.extranet.deutschebahn.com/marketingportal) - Im Marketingportal findest du einiges zu Design bei der DB (erterner Zugriff ist leider beschränkt 😒)
+
+[Abfahrtsboard](https://digital-board-official.vercel.app/) - Meine eigene Kreation die ich mal vor ein paar Jahren erstellt habe... Ist aber seit Ewigkeiten nicht mehr Maintained weshalb die ein oder andere Funktion Broken ist 😅. Kann aber gerne als Design referenz genutzt werden
