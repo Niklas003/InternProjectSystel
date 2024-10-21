@@ -51,6 +51,8 @@ In diesem Projekt ist es wichtiger dass du eine gute Anwendung/Code schreibst un
 
 [Leaflet](https://leafletjs.com/) - OpenSource JS library für interaktive Karten (wird ab Teil 5 interessant)
 
+Andere Librarys sind natürlich auch möglich, das sind hier alles nur Vorschläge.
+
 ## Design
 
 [Farben](https://marketingportal.extranet.deutschebahn.com/marketingportal/Marke-und-Design/Basiselemente/Farbe#) - hier findest du die Farben welche bei der DB häufig eingesetzt werden.
