@@ -57,4 +57,4 @@ In diesem Projekt ist es wichtiger dass du eine gute Anwendung/Code schreibst un
 
 [Marketingportal](https://marketingportal.extranet.deutschebahn.com/marketingportal) - Im Marketingportal findest du einiges zu Design bei der DB (erterner Zugriff ist leider beschränkt 😒)
 
-[Abfahrtsboard](https://digital-board-official.vercel.app/) - Meine eigene Kreation die ich mal vor ein paar Jahren erstellt habe... Ist aber seit Ewigkeiten nicht mehr Maintained weshalb die ein oder andere Funktion Broken ist 😅. Kann aber gerne als Design referenz genutzt werden
+[Abfahrtsboard](https://digital-board-official.vercel.app/) - Eigene Kreation die ich mal vor ein paar Jahren erstellt habe... Ist aber seit Ewigkeiten nicht mehr Maintained weshalb die ein oder andere Funktion Broken ist 😅. Darf aber gerne als Design referenz genutzt werden
