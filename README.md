@@ -21,7 +21,7 @@ Für die Bahnhofstafel sollen Echtzeitdaten verwendet werden. Die Anwendung soll
 
 ### Teil 3
 - Über eine Suchleiste sollen Bahnhöfe gesucht werden können dessen Abfahrtstafel angezeigt werden soll.
-- Bei der Eingabe eines Bahnhofsnamen sollten schon Suchvorschläge angezeit werden. Mit einem Klick auf den jeweiligen Suchvorschlag wird der entsprechende Bahnhof ausgewählt.
+- Bei der Eingabe eines Bahnhofsnamen sollen Suchvorschläge angezeit werden. Mit einem Klick auf den jeweiligen Suchvorschlag wird die entsprechende Bahnhofstafel angezeigt.
 
 ### Teil 4
 Anhand von Geodaten die Latitude und Longditude kann die Position eines Zuges bestimmt werden. Betrachtet man diese Positionsdaten über einen gewissen Zeitraum so verändern diese sich (da sich der Zug ja bewegt... zumindest sollte er das).
