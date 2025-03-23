@@ -4,11 +4,11 @@
 Web Projektaufgabe für Schülerpraktikant*innen bei der DB Systel
 
 ## Projektbeschreibung
-Ziel des Projektes ist es eine digitale Bahnhofstafel zu erstellen mit welcher über eine Weboberfläche interagiert werden kann.
-Für die Bahnhofstafel sollen Echtzeitdaten verwendet werden. Die Anwendung sollte dem Look and Feel von anderen DB Anwendungen nahe kommen.
+Ziel des Projektes ist es ein digitales Abfahrtsboard zu erstellen mit welchem über eine Weboberfläche interagiert werden kann.
+Für das Board sollen Echtzeitdaten verwendet werden. Die Anwendung sollte dem Look and Feel von anderen DB Anwendungen nahe kommen.
 
-### Teil 1
-- Eine Bahnhofstafel mit der Auflistung aller in der nächsten Stunde Abfahrenden Zügen (Regional- und Fernverkehr).
+### Teil 1 
+- Eine Tafel mit der Auflistung aller in der nächsten Stunde Abfahrenden Zügen (Regional- und Fernverkehr).
 - den Bahnhof selbst kannst du selbst wählen. Die API sollte aber alle nötigen Infos zum gewählten Bahnhof liefern können.
 - Anzeige von Abfahrtsgleis und geplanter Abfahrtszeit
 - Anzeige von realer Abfahrtszeit und die Kenntlichmachung von Verspätungen
@@ -64,3 +64,13 @@ Andere Librarys sind natürlich auch möglich, das sind hier alles nur Vorschlä
 [Farben](https://marketingportal.extranet.deutschebahn.com/marketingportal/Marke-und-Design/Basiselemente/Farbe#) - hier findest du die Farben welche bei der DB häufig eingesetzt werden.
 
 [Marketingportal](https://marketingportal.extranet.deutschebahn.com/marketingportal) - Im Marketingportal findest du einiges zu Design bei der DB (erterner Zugriff ist leider beschränkt 😒)
+
+### Inspiration
+![image](https://github.com/user-attachments/assets/251b1c94-b591-4893-8f9a-e9722d33a484)
+Bahn.de
+
+![image](https://github.com/user-attachments/assets/bbaf34fb-7bcd-4bfa-8c40-1b39da0c8f9e)
+wie am Bahnhof
+
+vielleicht fällt dir ja aber auch selbt ein super cooler Look ein! 😉
+
