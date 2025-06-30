@@ -20,7 +20,7 @@ Um dieses Projekt zu bearbeiten solltest du bereits Kenntnisse in den folgenden 
 nicht sooo relevant:
 - UX/UI Design
 
-Solltest du noch nix mit diesen Begriffen anfangen können könnte es recht schwierig werden das Projekt zu bearbeiten. Das ist aber nicht so schlimm. Alternativ kannst du deine Zeit im Praktikum nutzen um dich mit diesen Technologien auseinanderzusetzen, und dir neues Wissen aneignen.
+Solltest du noch nix mit diesen Begriffen anfangen können könnte es recht schwierig werden das Projekt zu bearbeiten. Das ist aber nicht so schlimm. Alternativ kannst du deine Zeit im Praktikum nutzen, um dich mit diesen Technologien auseinanderzusetzen, und dir neues Wissen aneignen.
 
 ## Anforderungen/Aufgaben
 
