@@ -21,6 +21,8 @@ nicht sooo relevant
 
 Solltest du noch nix mit diesen Begriffen anfangen können könnte es recht schwierig werden das Projekt zu bearbeiten. Das ist aber nicht so schlimm. Alternativ kannst du deine Zeit im Praktikum nutzen um dich mit diesen Technologien auseinanderzusetzen und dir neues Wissen aneignen.
 
+## Anforderungen/Aufgaben
+
 ### Teil 1 
 - Eine Tafel mit der Auflistung aller in der nächsten Stunde Abfahrenden Zügen (Regional- und Fernverkehr).
 - den Bahnhof selbst kannst du selbst wählen. Die API sollte aber alle nötigen Infos zum gewählten Bahnhof liefern können.
