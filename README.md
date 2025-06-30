@@ -7,6 +7,20 @@ Web Projektaufgabe für Schülerpraktikant*innen bei der DB Systel
 Ziel des Projektes ist es ein digitales Abfahrtsboard zu erstellen mit welchem über eine Weboberfläche interagiert werden kann.
 Für das Board sollen Echtzeitdaten verwendet werden. Die Anwendung sollte dem Look and Feel von anderen DB Anwendungen nahe kommen.
 
+## Vorkenntnisse
+Um dieses Projekt zu bearbeiten solltest du bereits Kenntnisse in den folgenden Bereichen haben:
+- HTML
+- CSS
+- JavaScript/TypeScript
+- Node.js/npm
+- Web Frontent Frameworks
+- REST API's
+- Git/GitHub
+nicht sooo relevant
+- UX/UI Design
+
+Solltest du noch nix mit diesen Begriffen anfangen können könnte es recht schwierig werden das Projekt zu bearbeiten. Das ist aber nicht so schlimm. Alternativ kannst du deine Zeit im Praktikum nutzen um dich mit diesen Technologien auseinanderzusetzen und dir neues Wissen aneignen.
+
 ### Teil 1 
 - Eine Tafel mit der Auflistung aller in der nächsten Stunde Abfahrenden Zügen (Regional- und Fernverkehr).
 - den Bahnhof selbst kannst du selbst wählen. Die API sollte aber alle nötigen Infos zum gewählten Bahnhof liefern können.
@@ -32,6 +46,14 @@ Aus den veränderten Daten lässt sich in etwa die aktuelle Geschwindigkeit eine
 ### Teil 5
 - Im Modal soll auf einer Karte die aktuelle Position des Zuges angegeben werden.
 - Die Position aktualisiert sich automatisch bzw. wandert dynamisch über die Karte
+- Nutze für diese Aufgabe gerne Leaflet bzw. entsprechende Plugins für Leaflet
+
+### Teil 6
+Das Thema der digitalen Barrierefreiheit ist ein zentrales Thema um digitale Anwendungen für alle Menschen zugänglich zu machen. Bestimmte Personen könnten Schwierigkeiten haben digitale Inhalte zu konsumieren (z.B. Personen mit diversen Sinneseinschränkungen wie sehen, hören, sprechen etc.) Um zu Überprüfen ob eine Seite Barrierefrei gestaltet ist helfen die Web Content Accessibility Guidelines _(WCAG)_
+
+- Überprüfe anhand der WCAG 2.2 ob deine Anwendung Barrierefrei ist
+- Welche Bereiche sind Barrierefrei? Wo gibt es Verbesserungspotential?
+- Dokumentiere deine Ergebnisse
 
 ## Umsetzung
 
@@ -57,7 +79,9 @@ In diesem Projekt ist es wichtiger dass du eine gute Anwendung/Code schreibst un
 
 [Leaflet](https://leafletjs.com/) - OpenSource JS library für interaktive Karten (wird ab Teil 5 interessant)
 
-Andere Librarys sind natürlich auch möglich, das sind hier alles nur Vorschläge.
+[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) - Dokumentation der Web Content Accessibility Guidelines
+
+Andere Librarys/Seiten sind natürlich auch möglich, das sind hier alles nur Vorschläge.
 
 ## Design
 
