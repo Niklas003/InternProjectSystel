@@ -98,7 +98,11 @@ Andere Librarys/Seiten sind natürlich auch möglich, das sind hier alles nur Vo
 Bahn.de
 
 ![image](https://github.com/user-attachments/assets/bbaf34fb-7bcd-4bfa-8c40-1b39da0c8f9e)
+
 wie am Bahnhof
 
 vielleicht fällt dir ja aber auch selbt ein super cooler Look ein! 😉
+
+## Wichtige Anmerkung
+Bitte **nichts** in dieses Repository committen. Bitte lege dir für dieses Projekt ein neues eigenes Repository an in welchem du deinen Quellcode verwaltest
 
