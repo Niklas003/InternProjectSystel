@@ -106,5 +106,5 @@ vielleicht fällt dir ja aber auch selbt ein super cooler Look ein! 😉
 
 ## Wichtige Anmerkungen
 - Bitte **nichts** in dieses Repository committen. Bitte lege dir für dieses Projekt ein neues eigenes Repository an in welchem du deinen Quellcode verwaltest
-- Wie bereist unter _Tech Stack_ erwähnt ist es nicht schlimm wenn du nicht alle Teilaufgaben schaffst. Solltest du aber bereits soweit sein dass du alle Aufgaben sorgfältig erledigt hast und auch sonst nix mehr tun must (z.B. Praktikumsbericht schreiben) darfst du dein Projekt gerne nach deinen Vorstellungen erweitern.
+- Wie bereist unter _Tech Stack_ erwähnt ist es nicht schlimm wenn du nicht alle Teilaufgaben schaffst. Solltest du aber bereits soweit sein dass du alle Aufgaben sorgfältig erledigt hast und auch sonst nix mehr tun musst (z.B. Praktikumsbericht schreiben) darfst du dein Projekt gerne nach deinen Vorstellungen erweitern.
 
