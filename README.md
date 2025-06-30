@@ -10,7 +10,7 @@ Für das Board sollen Echtzeitdaten verwendet werden. Die Anwendung sollte dem L
 ## Vorkenntnisse
 Um dieses Projekt zu bearbeiten solltest du bereits Kenntnisse in den folgenden Bereichen haben:
 - HTML
-- CSS
+- (S)CSS
 - JavaScript/TypeScript
 - Node.js/npm
 - Web Frontent Frameworks
