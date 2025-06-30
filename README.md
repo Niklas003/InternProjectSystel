@@ -44,7 +44,8 @@ Solltest du noch nix mit diesen Begriffen anfangen können könnte es recht schw
 Anhand von Geodaten die Latitude und Longditude kann die Position eines Zuges bestimmt werden. Betrachtet man diese Positionsdaten über einen gewissen Zeitraum so verändern diese sich (da sich der Zug ja bewegt... zumindest sollte er das).
 Aus den veränderten Daten lässt sich in etwa die aktuelle Geschwindigkeit eines Zuges berechnen.
 
-- Im Modal in welchem nähere Informationen zu einer Zugfahrt angezeigt werden soll die aktuelle geschätzte Geschwindigkeit angegeben werden.
+- Im Modal in welchem nähere Informationen zu einer Zugfahrt angezeigt werden, soll die aktuelle geschätzte Geschwindigkeit angegeben werden.
+- Warum kann die Geschwindigkeit nur geschätzt werden bzw. warum kann man zu keinem Zeitpunk mit 100%iger Sicherheit sagen wie schnell der Zug jetzt ist? Dokumentiere die Antwort in einem MARKDOWN Dokument (`.md`) in deinem Projekt 
 
 ### Teil 5
 - Im Modal soll auf einer Karte die aktuelle Position des Zuges angegeben werden.
