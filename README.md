@@ -16,7 +16,8 @@ Um dieses Projekt zu bearbeiten solltest du bereits Kenntnisse in den folgenden 
 - Web Frontent Frameworks
 - REST API's
 - Git/GitHub
-nicht sooo relevant
+
+nicht sooo relevant:
 - UX/UI Design
 
 Solltest du noch nix mit diesen Begriffen anfangen können könnte es recht schwierig werden das Projekt zu bearbeiten. Das ist aber nicht so schlimm. Alternativ kannst du deine Zeit im Praktikum nutzen um dich mit diesen Technologien auseinanderzusetzen und dir neues Wissen aneignen.
@@ -105,5 +106,5 @@ vielleicht fällt dir ja aber auch selbt ein super cooler Look ein! 😉
 
 ## Wichtige Anmerkungen
 - Bitte **nichts** in dieses Repository committen. Bitte lege dir für dieses Projekt ein neues eigenes Repository an in welchem du deinen Quellcode verwaltest
-- Wie bereist unter _Tech Stack_ erwähnt ist es nicht schlimm wenn du nicht alle Teilaufgaben schaffst. Solltest du aber bereits soweit sein dass du alle Aufgaben sorgfältig erledigt hast und auch sonst nix mehr tun must (z.B. Praktikumsbericht schreiben) darfst du dein Projekt gerne nach deinen Vorstellungen erwitern.
+- Wie bereist unter _Tech Stack_ erwähnt ist es nicht schlimm wenn du nicht alle Teilaufgaben schaffst. Solltest du aber bereits soweit sein dass du alle Aufgaben sorgfältig erledigt hast und auch sonst nix mehr tun must (z.B. Praktikumsbericht schreiben) darfst du dein Projekt gerne nach deinen Vorstellungen erweitern.
 
